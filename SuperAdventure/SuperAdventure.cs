@@ -27,6 +27,7 @@ namespace SuperAdventure
             _player.ExperiencePoints = 0;
             _player.Level = 1;
 
+
             lblHitPoints.Text = _player.CurrentHitPoints.ToString();
             lblGold.Text = _player.Gold.ToString();
             lblExperience.Text = _player.ExperiencePoints.ToString();
