@@ -104,7 +104,7 @@
             this.lblGold.Name = "lblGold";
             this.lblGold.Size = new System.Drawing.Size(0, 25);
             this.lblGold.TabIndex = 5;
-            this.lblGold.Click += new System.EventHandler(this.label6_Click);
+            //this.lblGold.Click += new System.EventHandler(this.);
             // 
             // lblExperience
             // 
